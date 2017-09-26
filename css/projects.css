@@ -93,6 +93,14 @@ body {
 	border-radius: 5px;
 }
 
+.project-card {
+	opacity: 0.0;
+	-webkit-transition-timing-function: ease-in;
+	transition-timing-function: ease-in;
+	-webkit-transition-delay: 0.3s;
+    transition-delay: 0.3s;
+}
+
 .project-details, .project-details-content, .project-img, .project-card-temp, .project-card {
 	transition: top .3s ease-in, left .3s ease-out, width .3s ease-in-out, height .3s ease-in-out;
  	-webkit-transition: top .3s ease-in, left .3s ease-out, height .3s ease-in-out, width .3s ease-in-out;
