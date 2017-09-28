@@ -7,7 +7,13 @@ h5 a:hover {
 }
 
 body {
-	margin-top: 70px;
+	padding-top: 70px;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+main {
+	flex: 1 0 auto;
 }
 
 .collapsible {

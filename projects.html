@@ -1,44 +1,44 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>Projects - Raj Housing</title>
+<html>
+<head>
+	<title>Projects - Raj Housing</title>
 
-			<!--Import Google Icon Font-->
-			<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<!--Import Google Icon Font-->
+	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-			<!--Meta tags-->
-			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-			<meta name="keywords" content="Salman Shah, Intern, Data Science, Machine Learning">
-			<meta name="author" content="Salman Shah">
-			<meta http-equiv="Content-Type" content="text/html, charset=UTF-8" />
+	<!--Meta tags-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="keywords" content="Salman Shah, Intern, Data Science, Machine Learning">
+	<meta name="author" content="Salman Shah">
+	<meta http-equiv="Content-Type" content="text/html, charset=UTF-8" />
 
-			<!--CSS Files-->
-			<link rel="shortcut icon" href="favicon.ico">
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
-			<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-			<link rel="stylesheet" href="css/stylesheet.css">
-			<link rel="stylesheet" href="css/projects.css">
-		    <link rel="stylesheet" href="css/index.css">
-		    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-		    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
+	<!--CSS Files-->
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link rel="stylesheet" href="css/stylesheet.css">
+	<link rel="stylesheet" href="css/projects.css">
+	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
 
-			<!--JavaScript files-->
-			<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous">
-			</script>
-			<script src="js/materialize.js"></script>
-			<script src="js/projects.json"></script>
-			<script src="js/vibrant.min.js"></script>
-		    <script type="text/javascript" src="js/home.js"></script>     
+	<!--JavaScript files-->
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous">
+	</script>
+	<script src="js/materialize.js"></script>
+	<script src="js/projects.json"></script>
+	<script src="js/vibrant.min.js"></script>
+	<script type="text/javascript" src="js/home.js"></script>     
 
-			<!-- <script type="text/javascript" src="js/script.js"></script> -->
-			<script type="text/javascript" src="js/projects.js"></script>
-			<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="a83d6245-1d3e-4a38-9fbb-a55cd8f4c737";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>	
-			<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
+	<!-- <script type="text/javascript" src="js/script.js"></script> -->
+	<script type="text/javascript" src="js/projects.js"></script>
+	<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="a83d6245-1d3e-4a38-9fbb-a55cd8f4c737";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>	
+	<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
 
-		 </head>
+</head>
 
-		<body onload="init_projects();">
+<body onload="init_projects();">
 
 			<div class="header header-fixed orange">
 			    <nav class="container nav-wrapper">
@@ -62,20 +62,22 @@
 			    </nav>
 			</div>
 
-			<div class="row">
-				<div class="col s12" style="padding: 0;">
-					<ul id="tabs-swipe-demo" class="tabs">
-						<li class="tab col s12 m4 l4"><a style="color: #795548;" href="#ongoing-projects" id="ongoing">Ongoing Projects</a></li>
-						<li class="tab col s12 m4 l4"><a style="color: #795548;" href="#upcoming-projects" id="upcoming">Upcoming Projects</a></li>
-						<li class="tab col s12 m4 l4"><a style="color: #795548;" href="#completed-projects" id="completed">Completed Projects</a></li>
-					</ul>
-					<div id="ongoing-projects" class="container row"></div>
-					<div id="upcoming-projects" class="container row"></div>
-					<div id="completed-projects" class="container row"></div>
-				</div>
+	<main>
+		<div class="row">
+			<div class="col s12" style="padding: 0;">
+				<ul id="tabs-swipe-demo" class="tabs">
+					<li class="tab col s12 m4 l4"><a style="color: #795548;" href="#ongoing-projects" id="ongoing">Ongoing Projects</a></li>
+					<li class="tab col s12 m4 l4"><a style="color: #795548;" href="#upcoming-projects" id="upcoming">Upcoming Projects</a></li>
+					<li class="tab col s12 m4 l4"><a style="color: #795548;" href="#completed-projects" id="completed">Completed Projects</a></li>
+				</ul>
+				<div id="ongoing-projects" class="container row"></div>
+				<div id="upcoming-projects" class="container row"></div>
+				<div id="completed-projects" class="container row"></div>
 			</div>
+		</div>
+	</main>
 
-			<footer class="page-footer orange" id="footer"></footer>
+	<footer class="page-footer orange" id="footer"></footer>
 
-		</body>
-	</html>
+</body>
+</html>

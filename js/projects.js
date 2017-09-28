@@ -356,11 +356,11 @@ function displayProjectInfo(index) {
 		var feat = document.getElementById('project-features');
 		var list_feat = [
 			'<img src="https://png.icons8.com/park-bench/win10/48" title="Park Bench" width="48" height="48">&nbsp;&nbsp;Landscape Garden',
-			'<img src="https://png.icons8.com/security-checked/win8/48" title="Security Checked" width="48" height="48">&nbsp;&nbsp;Security System Installed',
 			'<img src="https://png.icons8.com/dumbbell/win8/48" title="Dumbbell" width="48" height="48">&nbsp;&nbsp;Gymnasium / Club House',
 			'<img src="https://png.icons8.com/hotel-check-in-filled/ios7/50" title="Hotel Check In Filled" width="50" height="50">&nbsp;&nbsp;Designer Entrance Lobby',
 			'<img src="https://png.icons8.com/playground/android/48" title="Playground" width="48" height="48">&nbsp;&nbsp;Children\' Play Area',
-			'<img src="https://png.icons8.com/electricity/android/48" title="Electricity" width="48" height="48">&nbsp;&nbsp;Power Backup for Elevators'
+			'<img src="https://png.icons8.com/electricity/android/48" title="Electricity" width="48" height="48">&nbsp;&nbsp;Power Backup for Elevators',
+			'<img src="https://png.icons8.com/security-checked/win8/48" title="Security Checked" width="48" height="48">&nbsp;&nbsp;Security System Installed'
 		];
 		for (var x = 0; x < project.features.length; x++)
 		{
