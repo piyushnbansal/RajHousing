@@ -1,0 +1,5 @@
+
+User-agent: *
+Disallow: /images/ /js/ /css/
+
+Sitemap: https://www.rajhousing.in/sitemap.xml
