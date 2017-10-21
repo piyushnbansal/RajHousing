@@ -60,8 +60,8 @@ function init(){
 		type="ongoing";
 		displayProjectInfo.bind(this).call();
 	});
-	$("#ongoing-section-3").on('click', function(e){
-		type="ongoing";
+	$("#upcoming-section-0").on('click', function(e){
+		type="upcoming";
 		displayProjectInfo.bind(this).call();
 	});
 }
