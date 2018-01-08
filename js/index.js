@@ -56,12 +56,12 @@ function init(){
 		type="ongoing";
 		displayProjectInfo.bind(this).call();
 	});
-	$("#ongoing-section-1").on('click', function(e){
+	$("#ongoing-section-3").on('click', function(e){
 		type="ongoing";
 		displayProjectInfo.bind(this).call();
 	});
-	$("#upcoming-section-0").on('click', function(e){
-		type="upcoming";
+	$("#ongoing-section-1").on('click', function(e){
+		type="ongoing";
 		displayProjectInfo.bind(this).call();
 	});
 }
@@ -69,6 +69,7 @@ function init(){
 function displayProjectInfo(index) {
 	id = $(this).attr('id');
 	index = id.substr(id.lastIndexOf('-') + 1);
+	console.log(index);
 	switch(type){
 		case "ongoing":
 			project = ongoing_projects[index];
