@@ -11,7 +11,7 @@ var ongoing_projects = [
 		"towers": "<i class='material-icons'>business</i>Project Description",
 		"towers_content": "140 Residential<br>38 Shops<br>Location : Pale Goan<br>Possession : December 2017",
 		"details_content": "Landscape Garden is a classic, contemporary gated community with a car park, swimming pool, sitting and play areas. An innovative and futuristic project ,well equipped to meet all your needs in one place. While most companies diminish quality  to make houses affordable, we provide affordable houses with stringent quality standards.<br><br>If you want to provide the best for your family, this is the property you should be investing in.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/place/Landscape+Garden/@19.1893788,73.1750969,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7949c139665e9:0x6efe4a01577ed1d5!8m2!3d19.1893737!4d73.1772856\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.1334293492164!2d73.17509691490292!3d19.18937368702298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7949c139665e9%3A0x6efe4a01577ed1d5!2sLandscape+Garden!5e0!3m2!1sen!2sin!4v1508350648673\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Grand Entrance Gate",
 			"Watchman's Cabin at Entrance",
@@ -29,6 +29,36 @@ var ongoing_projects = [
 		"features": [1,2,3,4],
 	},
 	{
+		"name": "Rattan Raj Trinity Rudra",
+		"company": "Rattan Raj Lifespaces",
+		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
+		"image": "images/projects/Rattan Raj Towers Phase 1/Icon.jpg",
+		"space": "1 BHK / 1 BHK & 2 BHK with Terrace Flats",
+		"location":"PIN Code 421501<br>Pale, Ambernath - East",
+		"towers":"<i class='material-icons'>business</i>Project Description",
+		"towers_content": "84 Residential<br>Location : Pale Goan<br>Possession : Contact sales",
+		"details_content": "Rattan Raj Towers is the end product of the traditional recipe of Raj Housing- affordability, sustainability, convenience and highest quality. With all 84 apartments designed to perfection, keeping in mind the needs and comforts of a family, it is definitely a lodestar for all modern housing projects.  It is simple yet stylish, well adorned with all amenities for a luxurious living.",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d1419.6171480551777!2d73.1769622!3d19.1894113!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.1898928!2d73.17928239999999!5e1!3m2!1sen!2sin!4v1508351361995\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"amenities": [
+			"Vitrified Flooring",
+			"Wooden Doors with laminate",
+			"Granite Kitchen Platform",
+			"Aluminium Sliding Windows",
+			"Granite Window Frame",
+			"Patio / Flower Bed",
+			"Deluxe Bathroom Fittings",
+			"Tiling in WC &amp; Bathroom",
+			"Branded Sanitary Ware",
+			"Branded C.P fittings",
+			"Gypsum Wall Finish",
+			"Copper wiring with MCB/ELCB",
+			"Modular Electrical Switches",
+			"POP fall ceiling in Living Room",
+			"TV / Telephone Points"
+		],
+		"features": [2,3,4,5,6],
+	},
+	{
 		"name": "Ashtavinayak Avenue Phase 1",
 		"company": "Ashtavinayak Infrastructure",
 		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
@@ -40,7 +70,7 @@ var ongoing_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "84 Residential<br>19 Shops<br>Location : Navre Nagar<br>Possession : June 2017",
 		"details_content": "Ashtavinayak Phase 1 is a pioneering project with 84 residential apartments and 19 shops. The grace and beauty of the property lies in how elegantly, modernity and simplicity have been wrapped together to provide a enriching experience. With two wings having 1 BHK and 2 BHK apartments, it is a golden opportunity to invest !<br><br>Ashtavinayak Phase 2 is an upcoming project.<br>",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.1937351,73.2014534/@19.1938267,73.2002583,403m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m23!1m11!1m3!1d1019.2670214318615!2d73.20077027072848!3d19.193802972975096!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d19.1937695!2d73.2014611!4m3!3m2!1d19.193735099999998!2d73.20145339999999!5e1!3m2!1sen!2sin!4v1508351266989\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -63,36 +93,6 @@ var ongoing_projects = [
 ]
 var upcoming_projects = [
 	{
-		"name": "Rattan Raj Towers Phase 1",
-		"company": "Rattan Raj Lifespaces",
-		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
-		"image": "images/projects/dummy1/pic.jpg",
-		"space": "1 BHK / 1 BHK & 2 BHK with Terrace Flats",
-		"location":"PIN Code 421501<br>Pale, Ambernath - East",
-		"towers":"<i class='material-icons'>business</i>Project Description",
-		"towers_content": "84 Residential<br>Location : Pale Goan<br>Possession : Contact sales",
-		"details_content": "Rattan Raj Towers is the end product of the traditional recipe of Raj Housing- affordability, sustainability, convenience and highest quality. With all 84 apartments designed to perfection, keeping in mind the needs and comforts of a family, it is definitely a lodestar for all modern housing projects.  It is simple yet stylish, well adorned with all amenities for a luxurious living.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.1898928,73.1792824/@19.1894113,73.1769622,326m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
-		"amenities": [
-			"Vitrified Flooring",
-			"Wooden Doors with laminate",
-			"Granite Kitchen Platform",
-			"Aluminium Sliding Windows",
-			"Granite Window Frame",
-			"Patio / Flower Bed",
-			"Deluxe Bathroom Fittings",
-			"Tiling in WC &amp; Bathroom",
-			"Branded Sanitary Ware",
-			"Branded C.P fittings",
-			"Gypsum Wall Finish",
-			"Copper wiring with MCB/ELCB",
-			"Modular Electrical Switches",
-			"POP fall ceiling in Living Room",
-			"TV / Telephone Points"
-		],
-		"features": [2,3,4,5,6],
-	},
-	{
 		"name": "Raj Homes",
 		"company": "Raj Homes and Infracon",
 		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
@@ -102,7 +102,7 @@ var upcoming_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "312 Residential<br>26 Shops<br>Location : Pale Goan<br>Possession : Contact Sales",
 		"details_content": "Raj Homes is one the biggest ongoing project with 312 residential apartments and 26 shops. It is indeed magnificence personified. We have always believed in building the best and Raj Homes is a vibrant example of this. From the carefully designed interiors to the intricate details of the buildings, we have furnished it with all the features to entice our customers.<br><br>Pamper yourself with the exuberant richness of Raj Homes.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.1884966,73.1689761/@19.1882115,73.1704222,322m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d1402.198532741617!2d73.1704222!3d19.1882115!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.1884966!2d73.1689761!5e1!3m2!1sen!2sin!4v1508351336800\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -132,7 +132,7 @@ var upcoming_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "35 Residential<br>14 Shops<br>Location : Navre Nagar<br>Possession : Contact Sales",
 		"details_content": "We build houses. You make it a home.<br><br>Houses are not just an investment. They bear witness to your laughter and tears, the memorable moments you have with your loved ones. They are a heritage you leave behind for your children. It becomes much more than a property when it makes you reminisce the happy moments you spent here.<br><br>Keeping the needs and comforts it mind, we are building houses with world class amenities and top notch architecture while optimizing the space to gratify every customer. Having completed 12 projects successfully, we bring you a classic, elegant architectural style along with unparalleled experience of our engineers.<br><br>Invest in our houses. Invest in your happiness.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.1937351,73.2014534/@19.1938267,73.2002583,403m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d1754.9254928412165!2d73.2002583!3d19.1938267!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.193735099999998!2d73.20145339999999!5e1!3m2!1sen!2sin!4v1508351302332\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -153,7 +153,7 @@ var upcoming_projects = [
 		"features": [1,3,4],
 	},
 	{
-		"name": "Rattan Raj Towers Phase 2",
+		"name": "Rattan Raj Trinity",
 		"company": "Rattan Raj Lifespaces",
 		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
 		"image": "images/projects/dummy1/pic.jpg",
@@ -162,7 +162,7 @@ var upcoming_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "Location : Pale Goan<br>Possession : Contact Sales",
 		"details_content": "We build houses. You make it a home.<br><br>Houses are not just an investment. They bear witness to your laughter and tears, the memorable moments you have with your loved ones. They are a heritage you leave behind for your children. It becomes much more than a property when it makes you reminisce the happy moments you spent here.<br><br>Keeping the needs and comforts it mind, we are building houses with world class amenities and top notch architecture while optimizing the space to gratify every customer. Having completed 12 projects successfully, we bring you a classic, elegant architectural style along with unparalleled experience of our engineers.<br><br>Invest in our houses. Invest in your happiness.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.189298,73.1784991/@19.1894113,73.1769622,326m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d1419.6171480551777!2d73.1769622!3d19.1894113!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.189298!2d73.1784991!5e1!3m2!1sen!2sin!4v1508351387835\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -192,7 +192,7 @@ var upcoming_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "480 Residential<br>48 Shops<br>Location : Pale Goan<br>Possession : Contact Sales",
 		"details_content": "We build houses. You make it a home.<br><br>Houses are not just an investment. They bear witness to your laughter and tears, the memorable moments you have with your loved ones. They are a heritage you leave behind for your children. It becomes much more than a property when it makes you reminisce the happy moments you spent here.<br><br>Keeping the needs and comforts it mind, we are building houses with world class amenities and top notch architecture while optimizing the space to gratify every customer. Having completed 12 projects successfully, we bring you a classic, elegant architectural style along with unparalleled experience of our engineers.<br><br>Invest in our houses. Invest in your happiness.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.1884961,73.1734241/@19.1880396,73.1728048,324m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d1410.9078403983974!2d73.1728048!3d19.1880396!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.1884961!2d73.17342409999999!5e1!3m2!1sen!2sin!4v1508351411560\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Wooden Doors with laminate",
 			"Granite Kitchen Platform",
@@ -221,7 +221,7 @@ var upcoming_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "684 Residential<br>72 Shops<br>Location : Pale Goan<br>Possession : Contact Sales",
 		"details_content": "We build houses. You make it a home.<br><br>Houses are not just an investment. They bear witness to your laughter and tears, the memorable moments you have with your loved ones. They are a heritage you leave behind for your children. It becomes much more than a property when it makes you reminisce the happy moments you spent here.<br><br>Keeping the needs and comforts it mind, we are building houses with world class amenities and top notch architecture while optimizing the space to gratify every customer. Having completed 12 projects successfully, we bring you a classic, elegant architectural style along with unparalleled experience of our engineers.<br><br>Invest in our houses. Invest in your happiness.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.1890032,73.1714778/@19.1890208,73.1718066,321m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d1397.843878913227!2d73.1718066!3d19.1890208!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.1890032!2d73.17147779999999!5e1!3m2!1sen!2sin!4v1508351432053\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -251,7 +251,7 @@ var upcoming_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "Location : Ambernath West<br>Possession : Contact Sales",
 		"details_content": "We build houses. You make it a home.<br><br>Houses are not just an investment. They bear witness to your laughter and tears, the memorable moments you have with your loved ones. They are a heritage you leave behind for your children. It becomes much more than a property when it makes you reminisce the happy moments you spent here.<br><br>Keeping the needs and comforts it mind, we are building houses with world class amenities and top notch architecture while optimizing the space to gratify every customer. Having completed 12 projects successfully, we bring you a classic, elegant architectural style along with unparalleled experience of our engineers.<br><br>Invest in our houses. Invest in your happiness.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.2161595,73.1904581/@19.2155442,73.1905415,803m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d3496.787024197263!2d73.1905415!3d19.2155442!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.2161595!2d73.1904581!5e1!3m2!1sen!2sin!4v1508351457826\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -281,7 +281,7 @@ var upcoming_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "Location : Ambernath West<br>Possession : Contact Sales",
 		"details_content": "We build houses. You make it a home.<br><br>Houses are not just an investment. They bear witness to your laughter and tears, the memorable moments you have with your loved ones. They are a heritage you leave behind for your children. It becomes much more than a property when it makes you reminisce the happy moments you spent here.<br><br>Keeping the needs and comforts it mind, we are building houses with world class amenities and top notch architecture while optimizing the space to gratify every customer. Having completed 12 projects successfully, we bring you a classic, elegant architectural style along with unparalleled experience of our engineers.<br><br>Invest in our houses. Invest in your happiness.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.2161595,73.1904581/@19.2155442,73.1905415,803m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d3496.787024197263!2d73.1905415!3d19.2155442!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.2161595!2d73.1904581!5e1!3m2!1sen!2sin!4v1508351486993\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -311,7 +311,7 @@ var upcoming_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "Location : Shelu<br>Possession : Contact Sales",
 		"details_content": "We build houses. You make it a home.<br><br>Houses are not just an investment. They bear witness to your laughter and tears, the memorable moments you have with your loved ones. They are a heritage you leave behind for your children. It becomes much more than a property when it makes you reminisce the happy moments you spent here.<br><br>Keeping the needs and comforts it mind, we are building houses with world class amenities and top notch architecture while optimizing the space to gratify every customer. Having completed 12 projects successfully, we bring you a classic, elegant architectural style along with unparalleled experience of our engineers.<br><br>Invest in our houses. Invest in your happiness.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.0648267,73.3173917/@19.0639079,73.3163173,403m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d1754.9254928412165!2d73.3163173!3d19.0639079!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.064826699999998!2d73.3173917!5e1!3m2!1sen!2sin!4v1508351512366\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -341,7 +341,7 @@ var upcoming_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "Location : Royal Flora, Pale<br>Possession : Contact Sales",
 		"details_content": "We build houses. You make it a home.<br><br>Houses are not just an investment. They bear witness to your laughter and tears, the memorable moments you have with your loved ones. They are a heritage you leave behind for your children. It becomes much more than a property when it makes you reminisce the happy moments you spent here.<br><br>Keeping the needs and comforts it mind, we are building houses with world class amenities and top notch architecture while optimizing the space to gratify every customer. Having completed 12 projects successfully, we bring you a classic, elegant architectural style along with unparalleled experience of our engineers.<br><br>Invest in our houses. Invest in your happiness.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.188126,73.167606/@19.1878234,73.1671595,318m/data=!3m1!1e3\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d1384.7799174280567!2d73.1671595!3d19.1878234!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.188126!2d73.16760599999999!5e1!3m2!1sen!2sin!4v1508351532771\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -374,7 +374,7 @@ var completed_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "12 Residential<br>0 Shops<br>Location : Sai Section<br>Possession : March 2010",
 		"details_content": "Vrundavan Residency is the first housing complex to be completed by Raj Housing in March 2010. The building is a reflection of the core values followed by our engineers and architects to adhere together excellence and convenience . Our team transformed the sketches and models to a real, life size building with their professionalism and long hours of sedulous work. The building bears testimony to the proficient architectural and design skills along with our uncompromised work ethics.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.2065961,73.1815584/@19.206677,73.1813564,20.44z\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d470.9671511455901!2d73.1813564!3d19.206677!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.2065961!2d73.1815584!5e0!3m2!1sen!2sin!4v1506600994224\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -405,7 +405,7 @@ var completed_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "8 Residential<br>Location : Sai Section<br>Possession : December 2013",
 		"details_content": "A gated six storied building with eight residential apartments, it is the precedent of modern living. Redefining modern architecture, it is an assemblage of all the elements required for an affordable dream home. It stands tall with elegance and dominates over all the residential apartments in the area. Sarang Apartments, with its classic architectural touch has fulfilled the expectations of many families. ",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/place/Raj+Housing/@19.2071165,73.181569,19.34z/data=!4m5!3m4!1s0x3be7947ff2364193:0x94c63d745b8cc844!8m2!3d19.207026!4d73.18169\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d941.9317851979919!2d73.181569!3d19.2071165!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7947ff2364193%3A0x94c63d745b8cc844!2sRaj+Housing!5e0!3m2!1sen!2sin!4v1506768218194\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Wooden Doors with laminate",
 			"Granite Kitchen Platform",
@@ -434,7 +434,7 @@ var completed_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "11 Residential<br>Location : Kansai Section<br>Possession : March 2011",
 		"details_content": "Geeta Sadan, consisting of 11 residential apartments was one of the initial projects of Raj Housing.<br><br>A stand alone building, located in Kansai section, accommodates the needs of a family in a compact space. With wide balconies, the well lit apartments are a perfect marvel. Designed by our skillful architects, with the contemporary architectural style, it has been serving as a dream home for many.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.2064649,73.1823865/@19.2066237,73.181196,19.4z\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m20!1m8!1m3!1d941.9104876271475!2d73.1801739!3d19.2108348!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d19.2107107!2d73.18046629999999!4m3!3m2!1d19.210704!2d73.180458!5e0!3m2!1sen!2sin!4v1506768322025\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Granite Kitchen Platform",
 			"Aluminium Sliding Windows",
@@ -462,7 +462,7 @@ var completed_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "20 Residential<br>Location : Kansai Section<br>Possession : December 2012",
 		"details_content": "Shreeram Complex with its 20 residential apartments is an eye marvel. With top notch specifications and an elegant layout of the houses, it showcases what our company can achieve. The alluring beauty has provided happiness and satisfaction with its impeccable quality and meticulously designed houses. With an idyllic setting, day to day needs can be easily accessed.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.210704,73.180458/@19.2108348,73.1801739,19.6z\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d560.0633230337484!2d73.1802323374294!3d19.210835903087823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1508351010426\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -494,7 +494,7 @@ var completed_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "116 Residential<br>Location : Pale Goan<br>Possession : March 2016",
 		"details_content": "Consisting of 116 residential apartments, Landscape heights is an embodiment of luxury and modern living at affordable prices. The 1 BHK and 2 BHK apartments have been designed and optimized to accommodate all the needs of a family. Each and every home has been crafted to perfection. Keeping in mind the need for a healthy and blissful living, it was equipped with an uber cool gym and a children’s play area.<br><br>All in all, it offers a peaceful ambience and an exhilarating experience.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/place/Landscape+Heights/@19.200213,73.1671051,13z/data=!4m13!1m7!3m6!1s0x3be7938359bbd3a5:0x185ca7bca88f0c9!2sAmbernath,+Maharashtra!3b1!8m2!3d19.1825167!4d73.1926023!3m4!1s0x0:0xcd42e08bab1e4155!8m2!3d19.194571!4d73.1733656\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60286.16424608007!2d73.1671051!3d19.200213!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcd42e08bab1e4155!2sLandscape+Heights!5e0!3m2!1sen!2sin!4v1508350711092\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -525,7 +525,7 @@ var completed_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"details_content": "Raj Residency comprising of two wings has established its supremacy with its sublime combination of tranquility and conveniences. Eight shops lie right at the footsteps, at the disposal of the residents, to provide world class services. A sense of quietude and serenity makes it hard to resist the charm of these houses. It is an epitome of our company motto - providing excellence and comfort.",
 		"towers_content": "16 Residential<br>8 Shops<br>Location : Navre Nagar<br>Possession : September 2010",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/place/Raj+Residency+Apartment/@19.197873,73.1939147,18.04z/data=!4m5!3m4!1s0x3be7937063a1c1ef:0xd76fa2264983fd4b!8m2!3d19.1982!4d73.1949\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1883.9694253201217!2d73.1939147!3d19.197873!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7937063a1c1ef%3A0xd76fa2264983fd4b!2sRaj+Residency+Apartment!5e0!3m2!1sen!2sin!4v1508350628618\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -555,7 +555,7 @@ var completed_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "5 Residential<br>6 Shops<br>Location : Navre Nagar<br>Possession : March 2011",
 		"details_content": "Classic Arcade keeps in mind not only the essential aspects of a home but also the necessities of life. A stand alone building ,located in Navre Nagar, consists of 5 residential apartments and 6 shops, helping you meet all your day to day needs. The spacious,well ventilated apartments with balconies constructed with highest standard of quality provide a very comfortable living. ",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/dir//19.1965171,73.1953479/@19.1971827,73.1946339,19.04z\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d470.9958992193169!2d73.19535773226352!3d19.1966351813455!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1508351157201\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -586,7 +586,7 @@ var completed_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "93 Residential<br>Location : Ambernath West<br>Possession : March 2013",
 		"details_content": "Orchid Woods is another of Raj Housing’s large, ambitious projects. With 93 apartments, it is pittoresco, picturesque! It is strategically set in the midst of the city to avoid the chaos but still close enough to access all the perks and services of the city. It has been molded to be a golden investment with its sustainability and cost effectiveness.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/place/Orchid+Woods+Appartment/@19.2185169,73.1978015,828m/data=!3m2!1e3!4b1!4m5!3m4!1s0x3be7939a02c5c279:0xf9626e135a25343!8m2!3d19.2185118!4d73.1999902\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3605.6534820495076!2d73.19789551889265!3d19.218511788098564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7939a02c5c279%3A0xf9626e135a25343!2sOrchid+Woods+Appartment!5e1!3m2!1sen!2sin!4v1508350573586\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
@@ -617,7 +617,7 @@ var completed_projects = [
 		"towers":"<i class='material-icons'>business</i>Project Description",
 		"towers_content": "224 Residential<br>Location : Pale Goan<br>Possession : January 2017",
 		"details_content": "It is a classic, modern gated community. Consisting of 1 BHK and 2 BHK flats, it provides a perfect home for families. It offers all the perks of a gated community- from a play area to a swimming pool. It is a perfect amalgam of comfort and exquisite design. Robust engineering, customer centric designs and the resolute to provide the best culminated in the construction of the 224 apartments of Jainam Residency.",
-		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.co.in/maps/place/Jainam+Residency,+Ambernath,+Maharashtra+421501/@19.1898528,73.1770174,326m/data=!3m1!1e3!4m5!3m4!1s0x3be7949c6c206299:0xc851ab17b6163a25!8m2!3d19.1897528!4d73.1768157\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1419.6171480551777!2d73.1770174!3d19.1898528!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7949c6c206299%3A0xc851ab17b6163a25!2sJainam+Residency%2C+Ambernath%2C+Maharashtra+421501!5e1!3m2!1sen!2sin!4v1508350541563\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
