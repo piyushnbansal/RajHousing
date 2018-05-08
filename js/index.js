@@ -56,7 +56,7 @@ function init(){
 		type="ongoing";
 		displayProjectInfo.bind(this).call();
 	});
-	$("#ongoing-section-3").on('click', function(e){
+	$("#ongoing-section-2").on('click', function(e){
 		type="ongoing";
 		displayProjectInfo.bind(this).call();
 	});
