@@ -65,6 +65,7 @@ var ongoing_projects = [
 		"company": "Rattan Raj Lifespaces",
 		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
 		"image": "images/projects/Rattan Raj Towers Phase 1/Icon.jpg",
+		"images": 8,
 		"space": "1 BHK / 1 BHK & 2 BHK with Terrace Flats",
 		"location":"PIN Code 421501<br>Pale, Ambernath - East",
 		"towers":"<i class='material-icons'>business</i>Project Description",
