@@ -75,12 +75,9 @@ var ongoing_projects = [
 		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m8!1m3!1d1419.6171480551777!2d73.1769622!3d19.1894113!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d19.1898928!2d73.17928239999999!5e1!3m2!1sen!2sin!4v1508351361995\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"G + 11 Storied residential project",
-			"Basement parking",
 			"Branded elevators in each wing",
-			"Rooftop garden",
 			"Firefighting system",
 			"Vitrified Flooring",
-			"Wooden Doors with laminate",
 			"Granite Kitchen Platform",
 			"Aluminium Sliding Windows",
 			"Granite Window Frame",
