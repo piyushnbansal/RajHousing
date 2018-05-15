@@ -76,13 +76,9 @@ var ongoing_projects = [
 		"amenities": [
 			"G + 11 Storied residential project",
 			"Basement parking",
-			"2BHK flats in prime location",
 			"Branded elevators in each wing",
 			"Rooftop garden",
-			"Meditation room",
-			"Grand entrance gate",
 			"Firefighting system",
-			"Indoor games room",
 			"Vitrified Flooring",
 			"Wooden Doors with laminate",
 			"Granite Kitchen Platform",
@@ -96,8 +92,6 @@ var ongoing_projects = [
 			"Gypsum Wall Finish",
 			"Copper wiring with MCB/ELCB",
 			"Modular Electrical Switches",
-			"POP fall ceiling in Living Room",
-			"TV / Telephone Points"
 		],
 		"features": [2,3,4,5,6],
 	},
