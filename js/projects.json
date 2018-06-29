@@ -29,7 +29,7 @@ var ongoing_projects = [
 		"features": [2,3,4,5,6],
 	},
 	{
-		"name": "Ashtavinayak Avenue Phase 1",
+		"name": "Ashtavinayak Avenue",
 		"company": "Ashtavinayak Infrastructure",
 		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
 		"image": "images/office.png",
@@ -38,8 +38,8 @@ var ongoing_projects = [
 		"space": "35 residential",
 		"location":"PIN Code 421501<br>Pale, Ambernath - East",
 		"towers":"<i class='material-icons'>business</i>Project Description",
-		"towers_content": "84 Residential<br>19 Shops<br>Location : Navre Nagar<br>Possession : June 2017",
-		"details_content": "Ashtavinayak Phase 1 is a pioneering project with 84 residential apartments and 19 shops. The grace and beauty of the property lies in how elegantly, modernity and simplicity have been wrapped together to provide a enriching experience. With two wings having 1 BHK and 2 BHK apartments, it is a golden opportunity to invest !<br><br>Ashtavinayak Phase 2 is an upcoming project.<br>",
+		"towers_content": "84 Residential<br>19 Shops<br>Location : Navre Nagar<br>Possession : August 2018",
+		"details_content": "Ashtavinayak Avenue is a pioneering project with 84 residential apartments and 19 shops. The grace and beauty of the property lies in how elegantly, modernity and simplicity have been wrapped together to provide a enriching experience. With two wings having 1 BHK and 2 BHK apartments, it is a golden opportunity to invest !",
 		"maps": "<iframe class=\"google-maps\" src=\"https://www.google.com/maps/embed?pb=!1m23!1m11!1m3!1d1019.2670214318615!2d73.20077027072848!3d19.193802972975096!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d19.1937695!2d73.2014611!4m3!3m2!1d19.193735099999998!2d73.20145339999999!5e1!3m2!1sen!2sin!4v1508351266989\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
 		"amenities": [
 			"Vitrified Flooring",
