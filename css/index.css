@@ -357,6 +357,10 @@ nav ul a:hover {
 	opacity: 1;
 }
 
+.slick-slide > img {
+	max-width: 100%;
+}
+
 @media only screen and (max-width: 992px) {
 	.header-fixed {
 		font-size: 100% !important;
