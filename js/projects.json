@@ -118,7 +118,7 @@ var ongoing_projects = [
 		"features": [1,2,3,4],
 	},
 	{
-		"name": "Ashtavinayak NX",
+		"name": "Ashtavinayak Avenue NX",
 		"company": "Ashtavinayak Infrastructure",
 		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
 		"image": "images/projects/Ashtavinayak NX/Icon.jpg",
@@ -208,7 +208,7 @@ var ongoing_projects = [
 	},
 	{
 		"name": "Indraprasth Phase 1",
-		"company": "Raj Firstspaces",
+		"company": "Raj Firstspace",
 		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
 		"image": "images/projects/dummy1/pic.jpg",
 		"space": "1 BHK / 1 BHK & 2 BHK with Terrace Flats",
@@ -300,7 +300,7 @@ var upcoming_projects = [
 	},
 	{
 		"name": "Indraprasth Phase 2",
-		"company": "Raj Firstspaces",
+		"company": "Raj Firstspace",
 		"description": "Stunning 2 Towers of G+7 & S+7 storey with all ultra modern amenities, surrounded by beautiful landscapes.",
 		"image": "images/projects/dummy1/pic.jpg",
 		"space": "1 BHK / 1 BHK & 2 BHK with Terrace Flats",
