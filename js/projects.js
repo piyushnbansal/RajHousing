@@ -42,7 +42,7 @@ function load_ongoing_projects() {
 		details_container.innerHTML += '<h6 style="margin-top: 5px; font-style: italic; color: #999;">' + project.company + '</h6>'
 	}
 	var ids = "#ongoing-section-";
-	for(i = 0; i < upcoming_projects.length; i++) {
+	for(i = 0; i < ongoing_projects.length; i++) {
 		$(ids+i).on('click', function(e){
 			type="ongoing";
 			displayProjectInfo.bind(this).call();
