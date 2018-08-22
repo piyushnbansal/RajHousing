@@ -51,6 +51,7 @@ function init(){
 	}, 500);
 	$('.slider').slider();
 	$('.parallax').parallax();
+	$('#form-modal').modal();
 	$(".button-collapse").sideNav();
 	$("#ongoing-section-0").on('click', function(e){
 		type="ongoing";

@@ -97,6 +97,7 @@
         <li><a href="/">Home</a></li>
         <li><a href="/projects">Projects</a></li>
         <li><a href="/about">About Us</a></li>
+        <li><a href="#form-modal">Contact Us</a></li>
         <li><a style="margin-left: 25px; cursor: initial; display: flex; align-items: center; justify-content: center;"><i class="material-icons left valign">call</i>+91&nbsp;86601&nbsp;00238</a></li>
       </ul>
       <ul class="side-nav center-align orange black-text" id="mobile-demo">
@@ -104,6 +105,7 @@
         <li><a href="/">Home</a></li>
         <li><a href="/projects">Projects</a></li>
         <li><a href="/about">About Us</a></li>
+        <li><a href="#form-modal">Contact Us</a></li>
       </ul>
     </nav>
   </div>
@@ -234,6 +236,30 @@
       </div>
     </div>
   </div>
+
+  <div id="form-modal" class="modal white">
+      <div class="modal-content">
+        <form action="https://formspree.io/leads@rajhousing.in"
+        method="POST">
+          <div class="input-field">
+            <input type="text" id="name" name="name">
+            <label for="name">Name</label>
+          </div>
+          <div class="input-field">
+            <input type="email" id="_replyto" name="_replyto">
+            <label for="_replyto">Email</label>
+          </div>
+          <div class="input-field">
+            <input type="tel" id="phone" name="phone">
+            <label for="phone">Phone</label>
+          </div>
+          <center>
+            <button class="btn waves-effect waves-light center black-text orange bold z-depth-3" type="submit" name="action">Connect with us!
+            </button>
+          </center>
+        </form>
+      </div>
+    </div>
 
 
   <!-- FOOTER -->

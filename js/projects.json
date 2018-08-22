@@ -27,6 +27,7 @@ var ongoing_projects = [
 			"Copper wiring with MCB/ELCB",
 		],
 		"features": [2,3,4,5,6],
+		"url": "url-here",
 	},
 	{
 		"name": "Ashtavinayak Avenue",
