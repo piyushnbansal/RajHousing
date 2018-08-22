@@ -23,9 +23,10 @@ nav ul a:hover {
 	display: block;
 	height: 100vh;
 	width: 100%;
-	background-image: url(../images/backdrop.png);
+	background-image: url(../images/birdview.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
+	background-size: cover;
 	-webkit-filter: brightness(50%);
 	   -moz-filter: brightness(50%);
 	        filter: brightness(50%);

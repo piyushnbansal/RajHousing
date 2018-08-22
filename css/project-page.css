@@ -1,0 +1,219 @@
+html, body, main {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-size: 18px;
+    background: #e5e5e5;
+}
+
+.page-footer {
+    padding-left: 0 !important;
+    color: black;
+}
+
+footer .container {
+    margin-left: 6%;
+    margin-right: 6%;
+    width: 85%;
+}
+
+main h3 {
+    font-weight: 700;
+    margin-top: 0;
+}
+
+main h6 {
+    font-weight: 700;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+
+.card, .modal {
+    border-radius: 16px;
+}
+
+.card p {
+    display: block;
+    margin-top: 14px !important;
+}
+
+.caraousel {
+    height: 56% !important;
+}
+
+.sidenav li a, .landing a, .modal button {
+    font-weight: 700;
+}
+
+.sidenav-trigger i {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px;
+}
+
+header, main, footer {
+    padding-left: 300px;
+}
+
+.landing {
+    width: 100%;
+    height: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.landing .landing-backdrop {
+    background: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+    color: white;
+    padding: 10%;
+}
+
+.landing .heading {
+    font-size: 4em;
+    font-weight: 700;
+}
+
+.landing li, .project-location li {
+    list-style-type: disc !important;
+}
+
+.project-overview .col img, .about-developer .col img {
+    width: 100%;
+}
+
+.external-amenities .row .col img {
+    width: 60px;
+    height: 60px;
+    display: inline;
+    vertical-align: middle;
+    margin-right: 8px;
+    box-sizing: border-box;
+}
+
+.google-maps {
+    width: 100% !important;
+}
+
+.floor-plans, .project-overview, .external-amenities,
+.internal-amenities, .project-images,
+.project-location, .about-developer {
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: justify;
+}
+
+.sidenav {
+    overflow: hidden;
+}
+
+.sidenav:hover {
+    overflow-y: auto;
+}
+
+.sidenav form {
+    padding-left: 32px;
+    padding-right: 32px;
+    color: black !important;
+    margin-bottom: 100px;
+}
+
+.sidenav form button {
+    font-weight: 700;
+}
+
+/* label color */
+.input-field label {
+    color: #000;
+}
+
+.input-field input[type=text],
+.input-field input[type=email],
+.input-field input[type=tel] {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+/* label focus color */
+.input-field input[type=text]:focus + label,
+.input-field input[type=email]:focus + label,
+.input-field input[type=tel]:focus + label {
+    color: #000 !important;
+}
+
+/* label underline focus color */
+.input-field input[type=text]:focus,
+.input-field input[type=email]:focus,
+.input-field input[type=tel]:focus {
+    border-bottom: 1px solid #000 !important;
+    box-shadow: 0 1px 0 0 #000 !important;
+}
+
+/* icon prefix focus color */
+.input-field .prefix.active {
+    color: #000;
+}
+
+.mobile-fixed-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 8px 16px 8px 16px;
+    display: none;
+    z-index: 100;
+}
+
+.mobile-fixed-footer a {
+    width: 100%;
+    text-align: center;
+    font-weight: 700;
+}
+
+@media only screen and (max-width : 992px) {
+
+    .mobile-fixed-footer {
+        display: block;
+    }
+
+    .landing .heading {
+        font-size: 3em;
+    }
+
+    .card-content {
+        margin-top: 20px !important;
+    }
+
+    .landing, .landing .landing-backdrop {
+        height: auto;
+    }
+
+    .landing-backdrop {
+        padding-top: 20% !important;
+    }
+
+    header, main, footer {
+        padding-left: 0;
+    }
+
+    .row {
+        margin-bottom: 0;
+    }
+
+    .row .col {
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }
+
+    h6 {
+        margin-top: 8px;
+    }
+
+    footer {
+        padding-bottom: 40px;
+    }
+}
