@@ -37,8 +37,15 @@ main h6 {
     margin-top: 14px !important;
 }
 
-.caraousel {
-    height: 56% !important;
+.carousel-item {
+    position: relative;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%)
 }
 
 .sidenav li a, .landing a, .modal button {

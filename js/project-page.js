@@ -10,6 +10,11 @@ $(document).ready(function(){
         indicators: true
     });
     $('.modal').modal();
+
+    // var carousel_width = $('.carousel').width();
+    // carousel_width = parseInt(carousel_width);
+    // console.log(carousel_width);
+    // $('.carousel-item').css('height', (0.56 * carousel_width) + 'px !important');
 });
 
 var floor_timer;
