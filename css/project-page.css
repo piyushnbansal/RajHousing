@@ -37,7 +37,7 @@ main h6 {
     margin-top: 14px !important;
 }
 
-.carousel-item {
+/* .carousel-item {
     position: relative;
 }
 
@@ -46,6 +46,10 @@ main h6 {
     top: 50%;
     left: 0;
     transform: translateY(-50%)
+} */
+
+.dummy {
+    display: none;
 }
 
 .sidenav li a, .landing a, .modal button {

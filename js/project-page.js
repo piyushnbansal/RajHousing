@@ -11,10 +11,17 @@ $(document).ready(function(){
     });
     $('.modal').modal();
 
-    // var carousel_width = $('.carousel').width();
-    // carousel_width = parseInt(carousel_width);
-    // console.log(carousel_width);
+    var carousel_width = $('.carousel').width();
+    carousel_width = 0.56 * parseInt(carousel_width);
+    console.log(carousel_width);
     // $('.carousel-item').css('height', (0.56 * carousel_width) + 'px !important');
+    $('.dummy').append(`
+        <style>
+            .carousel {
+                height: ${carousel_width}px !important;
+            }
+        </style>
+    `)
 });
 
 var floor_timer;
