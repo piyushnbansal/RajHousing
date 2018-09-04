@@ -1,5 +1,4 @@
 $(document).ready(function(){
-	$('#footer').load('footer.html');
     $('.sidenav').sidenav();
     $('#floor-plans .carousel.carousel-slider').carousel({
         fullWidth: true,
