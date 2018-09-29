@@ -227,4 +227,15 @@ header, main, footer {
     footer {
         padding-bottom: 40px;
     }
+
+    .floor-plans, .project-overview, .external-amenities,
+    .internal-amenities, .project-images,
+    .project-location, .about-developer {
+        margin: 0%;
+        border-radius: 0;
+    }
+
+    .card-content {
+        margin-left: 0 !important;
+    }
 }
