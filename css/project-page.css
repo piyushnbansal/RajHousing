@@ -105,6 +105,17 @@ header, main, footer {
     box-sizing: border-box;
 }
 
+.internal-amenities h6 {
+    margin-top: 16px;
+    margin-bottom: 4px;
+}
+
+.internal-amenities .row .col {
+    padding: 0;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
 .google-maps {
     width: 100% !important;
 }
@@ -226,5 +237,16 @@ header, main, footer {
 
     footer {
         padding-bottom: 40px;
+    }
+
+    .floor-plans, .project-overview, .external-amenities,
+    .internal-amenities, .project-images,
+    .project-location, .about-developer {
+        margin: 0%;
+        border-radius: 0;
+    }
+
+    .card-content {
+        margin-left: 0 !important;
     }
 }
