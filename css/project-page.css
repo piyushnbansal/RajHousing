@@ -105,6 +105,17 @@ header, main, footer {
     box-sizing: border-box;
 }
 
+.internal-amenities h6 {
+    margin-top: 16px;
+    margin-bottom: 4px;
+}
+
+.internal-amenities .row .col {
+    padding: 0;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
 .google-maps {
     width: 100% !important;
 }
