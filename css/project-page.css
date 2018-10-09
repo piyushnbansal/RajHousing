@@ -110,6 +110,10 @@ header, main, footer {
     margin-bottom: 4px;
 }
 
+.internal-amenities .row {
+    margin: 0 !important;
+}
+
 .internal-amenities .row .col {
     padding: 0;
     margin-top: 4px;
